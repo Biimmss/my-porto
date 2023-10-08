@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/my-porto/static/css/main.bf538fe7.css",
-    "main.js": "/my-porto/static/js/main.3862d7bf.js",
+    "main.js": "/my-porto/static/js/main.9476c249.js",
     "static/media/HeroImage.jpg": "/my-porto/static/media/HeroImage.c85487c118c76291826d.jpg",
     "index.html": "/my-porto/index.html",
     "main.bf538fe7.css.map": "/my-porto/static/css/main.bf538fe7.css.map",
-    "main.3862d7bf.js.map": "/my-porto/static/js/main.3862d7bf.js.map"
+    "main.9476c249.js.map": "/my-porto/static/js/main.9476c249.js.map"
   },
   "entrypoints": [
     "static/css/main.bf538fe7.css",
-    "static/js/main.3862d7bf.js"
+    "static/js/main.9476c249.js"
   ]
 }
